@@ -43,7 +43,9 @@
   },
   "course_title": "Rhetoric: Rhetoric of Science",
   "course_description": "This course is an introduction to the history, theory, practice, and implications of rhetoric, the art and craft of persuasion. This course specifically focuses on the ways that scientists use various methods of persuasion in the construction of scientific knowledge.\n",
-  "department_numbers": [],
+  "department_numbers": [
+    "CMS-W"
+  ],
   "extra_course_numbers": "",
   "primary_course_number": "21W.747-2",
   "course_image_thumbnail": {
@@ -54,6 +56,6 @@
     "Written Assignments",
     "Presentation Assignments"
   ],
-  "site_uid": "91c55697-7791-45bc-b9d1-0696b6330af8",
+  "site_uid": "703c5c00-5f9c-4dfc-a4ad-2bd4adad775f",
   "title": "Course Metadata"
 }

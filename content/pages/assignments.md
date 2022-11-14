@@ -16,7 +16,7 @@ There are 2 major projects in this course as well as regular postings to the MIT
 MIT Server Postings
 -------------------
 
-This project is completed individually. See [calendar]({{< baseurl >}}/pages/syllabus#Calendar) for due dates. Length: 250-500 words each.
+This project is completed individually. See {{% resource_link e563f679-3a57-2fc4-8abb-cf1c76635dcb "calendar" "#Calendar" %}} for due dates. Length: 250-500 words each.
 
 We are using the MIT server in this class as an archive of scientific/engineering samples. As noted in calendar, 6 times during the semester you are to post a sample to the MIT server along with a 250 word mini-analysis of the sample. The repeated postings are meant to give you practice in using rhetorical analysis methods. You may post articles, abstracts, posters, speeches or grants from professional sources. For example, you may choose an article from the journal _Science_ or a Physics poster that you like in one of the MIT hallways (you may take a picture of the poster or ask the professor for a PDF copy).
 

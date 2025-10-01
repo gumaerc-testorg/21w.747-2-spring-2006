@@ -109,9 +109,9 @@ What are the limits and possibilities of using rhetoric to explain science? Read
 
 Read: Halloran, S. M. "The birth of molecular biology: an essay in the rhetorical criticism of scientific discourse." *Rhetoric Review* 3 (1984): 70-83.
 
-Moore, Randy. "Writing About Biology: How Rhetorical Choices Can Influence the Impact of a Scientific Paper." *Bioscene* 26, no. 1 (February 2000): 23-25. ([PDF](http://www.eric.ed.gov/ERICWebPortal/search/detailmini.jsp?_nfpb=true&_&ERICExtSearch_SearchValue_0=EJ607080&ERICExtSearch_SearchType_0=no&accno=EJ607080))
+Moore, Randy. "Writing About Biology: How Rhetorical Choices Can Influence the Impact of a Scientific Paper." *Bioscene* 26, no. 1 (February 2000): 23-25. ({{% resource_link "87d77475-c193-4ad5-a3e8-4d0c839b9f3e" "PDF" %}})
 
-Watson, J., and F. Crick. "A Structure for Deoxyribose Nucleic Acid." *Nature* 171 (1953): 737. ([PDF](http://www.nature.com/nature/dna50/watsoncrick.pdf))
+Watson, J., and F. Crick. "A Structure for Deoxyribose Nucleic Acid." *Nature* 171 (1953): 737. ({{% resource_link "753bca25-b19a-408f-94c4-2eb8b6ca3846" "PDF" %}})
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
